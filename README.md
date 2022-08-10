@@ -7,7 +7,7 @@ The purpose of our analysis is to find the overall passing percentages of the st
 ### 2.1 District Summary
 
 <p align="center">
-  <img  src="Resources/1.png" width="350" height="100">
+  <img  src="Resources/1.png">
 </p>
 
 The district summary was barely affected by the correction made:
@@ -18,7 +18,7 @@ The district summary was barely affected by the correction made:
 ### 2.2  School Summary
 
 <p align="center">
-  <img  src="Resources/2.png" width="350" height="100">
+  <img  src="Resources/2.png ">
 </p>
 
 The school summary was slightly affected by the correction made:
@@ -31,13 +31,13 @@ The school summary was slightly affected by the correction made:
 
  * The 5 highest and 5 lowest performing schools ranking in the district was not affected by the correction.
 <p align="center">
-  <img  src="Resources/3.png" width="350" height="100">
+  <img  src="Resources/3.png">
 </p>
 
 ### 2.4 Math and Reading Scores by Grade
 
 <p align="center">
-  <img  src="Resources/4.png" width="350" height="100">
+  <img  src="Resources/4.png">
 </p>
 
 * As expected, the average math and reading scores for Thomas High School ninth graders show as NaN on the math and reading scores by grade summary
@@ -45,7 +45,7 @@ The school summary was slightly affected by the correction made:
 ### 2.5 Scores by School Spending
 
 <p align="center">
-  <img  src="Resources/5.png" width="350" height="100">
+  <img  src="Resources/5.png" >
 </p>
 
 * The only changes are on the $630-644 range where the % Passing Reading and the % Overall Passing both dropped by 0.1% to respectively 84.3% and 62.8%.
@@ -53,7 +53,7 @@ The school summary was slightly affected by the correction made:
 ### 2.6 Scores by School Size
 
 <p align="center">
-  <img  src="Resources/6.png" width="350" height="100">
+  <img  src="Resources/6.png">
 </p>
 
 * The only change is on the Medium size school range where the % Passing Reading dropped by 0.1% to 96.7%.
@@ -61,7 +61,7 @@ The school summary was slightly affected by the correction made:
 ### 2.7 Scores by School Type
 
 <p align="center">
-  <img  src="Resources/7.png" width="350" height="100">
+  <img  src="Resources/7.png">
 </p>
 
 * There is no noticeable change to the scores by school type summary after correction.
